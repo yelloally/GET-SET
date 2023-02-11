@@ -1,0 +1,15 @@
+/Users/yellobunny/Projects/c_sharp/GetAndSet/bin/Debug/net7.0/GetAndSet
+/Users/yellobunny/Projects/c_sharp/GetAndSet/bin/Debug/net7.0/GetAndSet.deps.json
+/Users/yellobunny/Projects/c_sharp/GetAndSet/bin/Debug/net7.0/GetAndSet.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/GetAndSet/bin/Debug/net7.0/GetAndSet.dll
+/Users/yellobunny/Projects/c_sharp/GetAndSet/bin/Debug/net7.0/GetAndSet.pdb
+/Users/yellobunny/Projects/c_sharp/GetAndSet/obj/Debug/net7.0/GetAndSet.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/GetAndSet/obj/Debug/net7.0/GetAndSet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/GetAndSet/obj/Debug/net7.0/GetAndSet.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/GetAndSet/obj/Debug/net7.0/GetAndSet.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/GetAndSet/obj/Debug/net7.0/GetAndSet.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/GetAndSet/obj/Debug/net7.0/GetAndSet.dll
+/Users/yellobunny/Projects/c_sharp/GetAndSet/obj/Debug/net7.0/refint/GetAndSet.dll
+/Users/yellobunny/Projects/c_sharp/GetAndSet/obj/Debug/net7.0/GetAndSet.pdb
+/Users/yellobunny/Projects/c_sharp/GetAndSet/obj/Debug/net7.0/GetAndSet.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/GetAndSet/obj/Debug/net7.0/ref/GetAndSet.dll
